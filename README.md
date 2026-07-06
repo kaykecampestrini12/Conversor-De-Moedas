@@ -33,3 +33,6 @@ Abra o arquivo `index.html` no navegador ou utilize a extensão Live Server do V
 ## 👨‍💻 Autor
 
 Desenvolvido por **Kayke Campestrini** durante os estudos de JavaScript.
+
+
+
